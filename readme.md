@@ -3,6 +3,11 @@
 
 Takes a decimal value and outputs the binary value as an array.
 
+Install
+
+```livescript
+npm install @partially-appled/decimal-to-binary
+```
 **Quick Guide in Code**
 
 ```livescript
@@ -24,6 +29,7 @@ dec-to-bin 3 # [1,1]
 ```livescript
 decimal-to-binary :: Int -> [Bool,..Bool]
 ```
+
 
 
 **Todo**
