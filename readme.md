@@ -9,13 +9,13 @@ Takes a decimal value and outputs the binary value as an array.
 
 dec-to-bin = require '@partially-appled/dec-to-bin'
 
-console.log dec-to-bin 0 # [0]
+dec-to-bin 0 # [0]
 
-console.log dec-to-bin 1 # [1]
+dec-to-bin 1 # [1]
 
-console.log dec-to-bin 2 # [1,0]
+dec-to-bin 2 # [1,0]
 
-console.log dec-to-bin 3 # [1,1]
+dec-to-bin 3 # [1,1]
 
 ```
 
