@@ -22,7 +22,7 @@ dec-to-bin 3 # [1,1]
 `type-signature`
 
 `
-dec-to-bin :: Int -> [Bool,..Bool]
+@partially-applied/decimal-to-binary :: Int -> [Bool,..Bool]
 `
 
 
