@@ -6,13 +6,13 @@ Takes a decimal value and outputs the binary value as an array.
 Install
 
 ```livescript
-npm install @partially-appled/decimal-to-binary
+npm install @partially-applied/decimal-to-binary
 ```
 **Quick Guide in Code**
 
 ```livescript
 
-dec-to-bin = require '@partially-appled/decimal-to-binary'
+dec-to-bin = require '@partially-applied/decimal-to-binary'
 
 dec-to-bin 0 # [0]
 
