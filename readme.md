@@ -1,13 +1,6 @@
 
-`@partially-applied/decimal-to-binary`
-
 Takes a decimal value and outputs the binary value as an array.
 
-Install
-
-```livescript
-npm install @partially-applied/decimal-to-binary
-```
 **Quick Guide in Code**
 
 ```livescript
@@ -31,6 +24,11 @@ decimal-to-binary :: Int -> [Bool,..Bool]
 ```
 
 
+Install
+
+```livescript
+npm install @partially-applied/decimal-to-binary
+```
 
 **Todo**
 
