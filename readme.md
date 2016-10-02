@@ -21,9 +21,9 @@ dec-to-bin 3 # [1,1]
 
 `type-signature`
 
-`
-@partially-applied/decimal-to-binary :: Int -> [Bool,..Bool]
-`
+```livescript
+decimal-to-binary :: Int -> [Bool,..Bool]
+```
 
 
 **Todo**
