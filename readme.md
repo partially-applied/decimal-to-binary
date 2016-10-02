@@ -1,5 +1,5 @@
 
-`@partially-applied/dec-to-bin`
+`@partially-applied/decimal-to-binary`
 
 Takes a decimal value and outputs the binary value as an array.
 
@@ -7,7 +7,7 @@ Takes a decimal value and outputs the binary value as an array.
 
 ```livescript
 
-dec-to-bin = require '@partially-appled/dec-to-bin'
+dec-to-bin = require '@partially-appled/decimal-to-binary'
 
 dec-to-bin 0 # [0]
 
